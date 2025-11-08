@@ -1,5 +1,9 @@
 # 🧠 Feature Engineering on IBM HR Analytics Attrition Dataset
 
+Colab Notebook: https://colab.research.google.com/drive/1A5CQMQNBNpQTVuzXzp-qhJMFrLewcu0f?usp=sharing
+
+***
+
 ## 📘 Overview
 This project showcases feature engineering techniques applied to the **IBM HR Analytics Employee Attrition Dataset**. The primary goal is to clean and transform HR data, making it suitable for predictive modeling—specifically, to forecast whether an employee will leave the company (attrition: Yes/No).
 
